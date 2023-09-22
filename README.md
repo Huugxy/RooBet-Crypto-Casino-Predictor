@@ -46,7 +46,7 @@
 
 ## Features:
 
-- Discord Webhook support (get next game's results via Discord server.
+- Discord Webhook support (get next game's results via Discord server).
 
 - Telegram Notifier (Specify your ID and bot's token, and you will receive messages via Telegram)
 
